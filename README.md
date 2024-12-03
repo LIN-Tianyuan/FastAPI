@@ -17,8 +17,11 @@ uvicorn main:app --reload
 http://127.0.0.1:8000/docs
 ```
 
-## Project
- - Blog & User
+## Project (Blog & User)
+ - JWT Access Token
+ - Route behind authentication
+
+
 
 
 ## License
